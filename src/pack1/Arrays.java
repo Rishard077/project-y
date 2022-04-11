@@ -1,17 +1,11 @@
+package pack1;
 
-
-
-public class array {
+public class Arrays {
 
 	public static void main(String[] args) {
 		
-		String x = "hjsdhjhdj";
- System.out.print(x);
 		
-		
-		
-		
-		
+		// am updating the codes
 		// TODO Auto-generated method stub
 
 	}
